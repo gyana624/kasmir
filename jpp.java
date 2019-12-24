@@ -1,3 +1,4 @@
+//print prime number from 1 to 100
 import java.io.*;
 
 Public class prime_numer
